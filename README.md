@@ -1,2 +1,3 @@
-# cs4248-g30
-CS4248 NLP Project
+# Attention Isn’t Enough: The Interpretability Gap in Sarcasm Detection
+Sarcasm detection is a difficult task due to its context-dependent nature, which is a problem in news articles, as sarcastic headlines can be misinterpreted and cause misinformation. This paper focuses on sarcasm detection using headlines, investigating the trade-off between interpretability and performance. To do this, we explore 3 approaches: A model based solely on handcrafted linguistic features, a model using n-gram features, and a model that leverages attention-based neural representation. By extracting and analyzing interpretable linguistic features, replicating prior ensemble methods, and assessing the impact of augmenting attention mechanisms with context incongruity features, we demonstrate that while neural models outperform in terms of accuracy, linguistic features provide valuable interpretability, and their integration into neural networks enhances focus on semantically conflicting cues. 
+
